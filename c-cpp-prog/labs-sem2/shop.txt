@@ -1,0 +1,10 @@
+bread 200 60  
+beef 160 900  
+milk 300 50  
+eggs 500 80  
+cheese 100 400  
+potatoes 400 30  
+chicken 120 350  
+tomatoes 150 120  
+apples 200 70  
+fish 80 600
